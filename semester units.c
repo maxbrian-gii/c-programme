@@ -26,7 +26,8 @@ int main()
        
        printf("7.Communication and Information Literacy skills\n"); 
        
-       return 0;  }
+       return 0;                                              
+}
 
 
 
