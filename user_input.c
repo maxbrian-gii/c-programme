@@ -1,12 +1,17 @@
+//name:Maxbrian Kamau
+//reg no:CT100/G/30669/26
+//Date:18/09/2026
 //program with user input
-#include<stdio.h>
-#include<stdlib.h>
-int main(){ 
 
+#include<stdio.h>
+
+int main()
+{ 
     float Height;
     double Bank_balance;
     long int phone_number;
     int M;
+    
     printf("Enter your height :\t");
     scanf("%f",&Height);
     
