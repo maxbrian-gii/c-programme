@@ -1,3 +1,8 @@
+//Name:Maxbrian kamau
+//reg no:CT100/G/30669/26
+//description:Discount program
+//Date:25/09/2026
+
 #include<stdio.h>
 
 float calculateDiscount(float purchase_amnt);
