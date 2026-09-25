@@ -1,13 +1,9 @@
-#include<stdio.h>
-
-#include<stdlib.h>
-
 /*name: Maxbrian Kamau
-
  reg no: CT100/G/30669/26
- 
  description: semester units program 
  date:14/09/2026 */
+
+#include<stdio.h>
 
 int main()
 {      printf("BSc IT UNITS SEM ONe\n");
