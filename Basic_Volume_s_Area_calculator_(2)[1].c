@@ -5,6 +5,7 @@ Basic volume and surface area calculator*/
 
 #include<stdio.h>
 #include<math.h>
+
 int main()
 {   
     float numberOne;
@@ -20,8 +21,6 @@ int main()
     printf("\n");
     
     printf("The volume of your cylinder is:%.4f\n",pi*pow(numberOne,2)*numberTwo);
-    
-    
     
     printf("The surfaceArea of your cylinder is:%.4f",2*pi*pow(numberOne,2)+2*pi*numberOne*numberTwo);
 
