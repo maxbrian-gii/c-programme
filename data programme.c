@@ -20,19 +20,19 @@ int main(){
   switch(choice){
 
     case 1:
-    printf("you selected 100MB.Cost = 50 kes");
+    printf("you selected 100MB.Cost = 50 kes\n");
     break;
     
     case 2:
-    printf("you selected 200MB.Cost = 200 kes");
+    printf("you selected 500MB.Cost = 200 kes\n");
     break;
     
     case 3:
-    printf("you selected 1GB.Cost = 350 kes");
+    printf("you selected 1GB.Cost = 350 kes\n");
     break;
     
     case 4:
-    printf("you selected 2GB.Cost = 6000 kes");
+    printf("you selected 2GB.Cost = 600 kes\n");
     break;
 
     default:
